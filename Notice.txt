@@ -1,2 +1,3 @@
-1- Slider is not run 
-2- Total Cart Price is dynamic for every user
+To start the project : 
+1- Open cmd on the path of the project
+2- Enter npm start
