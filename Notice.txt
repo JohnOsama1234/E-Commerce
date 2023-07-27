@@ -1,0 +1,2 @@
+1- Slider is not run 
+2- Total Cart Price is dynamic for every user
